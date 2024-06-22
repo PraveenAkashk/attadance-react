@@ -1,2 +1,2 @@
-# attadance-react
+# Attadance-react
 Attadance Application
