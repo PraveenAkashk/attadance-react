@@ -1,0 +1,6 @@
+@import "./mixins";
+@import "./variables";
+
+@include font-family($AcehSoft-Regular, "../../fonts/AcehSoft-Regular.woff2");
+@include font-family($AcehSoft-SemiBold, "../../fonts/AcehSoft-SemiBold.woff2");
+@include font-family($AcehSoft-Bold, "../../fonts/AcehSoft-Bold.woff2");

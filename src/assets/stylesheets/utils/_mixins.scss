@@ -1,0 +1,19 @@
+
+@mixin font-family($name,$url){
+    @font-face {
+        font-family: $name;
+        src: url($url), format(woff2);
+    }
+}
+
+@mixin padding-null{
+    padding: 0;
+}
+
+@mixin margin-auto{
+    margin: 0 auto;
+}
+
+@mixin padding-20{
+    padding: 20px;
+}

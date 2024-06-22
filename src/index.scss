@@ -1,0 +1,12 @@
+@import "./assets/stylesheets/utils/main";
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+html{
+  font-family: $AcehSoft-Regular;
+  @include padding-20
+}
+
